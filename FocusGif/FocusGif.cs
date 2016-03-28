@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Gif;
 using Gif.Components;
 using System.Drawing.Drawing2D;
 
